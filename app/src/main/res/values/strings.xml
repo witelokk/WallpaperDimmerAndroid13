@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Wallpaper Dimmer</string>
     <string name="no_permission_toast">Grant root permission in Magisk app</string>
+    <string name="dim_amount">Amount of dim (in percents):</string>
 </resources>
