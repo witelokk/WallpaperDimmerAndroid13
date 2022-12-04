@@ -5,12 +5,14 @@ import android.util.Log
 import android.widget.Toast
 import androidx.annotation.FloatRange
 import androidx.appcompat.app.AppCompatActivity
+import com.google.android.material.color.DynamicColors
 import com.google.android.material.slider.Slider
 import com.topjohnwu.superuser.Shell
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        DynamicColors.applyToActivityIfAvailable(this)
         setContentView(R.layout.activity_main)
 
         Shell.getShell()
