@@ -1,7 +1,9 @@
-# WallpaperDimmerAndroid13
+# Wallpaper Dimmer for Android 13
 Simple app that utilizes Android 13 wallpaper dim API.
 
-Sadly, it requires root since Google has made corresponding API calls limited to privileged apps.
+Sadly, it requires **root** since Google has made corresponding API calls limited to privileged apps.
+
+Download: https://github.com/witelokk/WallpaperDimmerAndroid13/releases/
 
 Demonstration:
 
