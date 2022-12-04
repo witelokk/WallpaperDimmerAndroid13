@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Wallpaper Dimmer</string>
+    <string name="no_permission_toast">Grant root permission in Magisk app</string>
 </resources>
